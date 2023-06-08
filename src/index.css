@@ -1,0 +1,28 @@
+body {
+  background-color: #291166;
+}
+.error {
+  background-color: #b7322c;
+  padding: 1rem;
+  color: #fff;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+.resultado {
+  color: #fff;
+}
+.resultado h2 {
+  font-weight: bold;
+  color: #fff;
+}
+.resultado p {
+  font-size: 18px!important;
+}
+.resultado p span {
+  font-weight: bold;
+}
+p.precio{
+  font-size: 30px!important;
+}
